@@ -1,0 +1,7 @@
+specs/*
+.vscode/
+.claude/
+tmp/
+__pycache__/
+*.pyc
+*.log
